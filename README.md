@@ -3,6 +3,8 @@ Have a trigger on Ledger Entry that will populate a field on the LE called 'EF G
 
 Trigger works as expected, but  having trouble getting the test class to work.
 
+Ultimately, only need to figure out how to get the test class to be able to run the ledger creation.
+
 Issues running into
 
 -Payment autocreation occurs, but allocation autocreation does not occur
